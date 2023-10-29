@@ -7,7 +7,7 @@ description:  This is Ahmed's CV.
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "/ahmedcv" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://ahmedsharifkhan.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
@@ -15,9 +15,15 @@ github_username:  jekyll
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-minifier
+  - jekyll-sitemap
+  - jekyll-seo-tag
 
 theme_skin: blue
 
 sass:
   sass_dir: _sass
   style: compressed
+
+minifier:
+  exclude: ['assets/ignore-this.css']
