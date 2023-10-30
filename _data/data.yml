@@ -1,20 +1,23 @@
-name: John Doe
+name: Ahmed Sharif Khan Noor
 support_dark_mode: true
 fork: true
 
 # Sidebar
 contact:
-  email: info@johndoe.com
-  github: johndoe
-  linkedin: johndoe
+  email: ahmedsharifkhannoor@gmail.com
+  github: ahmedsharifkhan
+  linkedin: ahmedsharifkhannoor
+  facebook: ahmedsharifkhannoor
+  instagram: ahmedsharifkhannoor
+  twitter: ahmedsharifkhannoor
   phone: 
   gitlab: 
   twitter: 
 
 languages:
   - idiom: English
-  - idiom: Russian
-  - idiom: French
+  - idiom: Bangla
+
 
 education:
   - degree: MSc in Informatics
@@ -41,48 +44,68 @@ skills:
 
 # Profile
 profile: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-  fugiat nulla pariatur.
+  Why ME ?
+  To obtain a challenging position as a Digital Marketer where my skills and experience can be fully utilized and enhanced in order to help achieve the organization’s marketing goals.
 
 # Experience
 experience:
-  - role: Software Engineer
-    time: 2020-Present
-    company: Google
+  - role: DIGITAL MARKETING & SEO SPECIALIST (PM)
+    time: 2023 - present
+    company: Ecomclips
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
-    technologies_used: | 
-      Go, Angular, Typescript, C++
+      Ecomclips is a data-driven eCommerce solution that helps with online marketing, brand identity, SEO, and content creation.
+  - qualifications: Key Qualifications and Responsibilities
+    qualifications_list: |
+     - Improved processes, content, and lead generation, resulting in   
+        successful initiatives.
+      - Collaborated with the content team to promote    blog and guest
+         posts.
+      Conducted market research, analyzed trends and    results, and
+        provided forecasting.
+        Produced 20+ Facebook posts and    50+ Facebook/Google ads for
+          multiple clients.
+        Formulated and executed    SEO strategies for nine clients.
+          Configured Facebook Pixel, Google    Analytics, and Tag Manager for
+          clients.
+        Skillfully resolved Shopify,    WordPress, and Google Merchant Center
+        challenges.
+        Award to an employee of the month from the digital marketing team
+  - role: Key Achievements
+    details: |
+      Award to an employee of the month from the digital marketing team
   
-  - role: Researcher
-    time: 2016-2020
-    company: Microsoft
+  - role: DIGITAL MARKETING MANAGER
+    time:  2020-2021
+    company: Door2Buy 
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+      Assisted Senior Designer Really Great Site with overall art direction in the company
+      Helped supervise the various production teams with their creative projects
+      ChapainNawabganjs' first and fastest complete online shopping platform and food delivery service.
+
+  - role: Key Qualifications and Responsibilities
+    details: |
+      - Designed and published 50+ effective Facebook and Instagram posts.
+      Strategized for business and marketing goals with successful results.
+      Organized a successful physical event for over 400 attendees.
+      Provided IT support to maintain website functionality.
+      Contacted relevant social media influencers to prepare for a campaign.
+      Managed customer service and ensured high-quality standards.
+      Successfully engaged with a significant audience of 5000+ people.
+
     technologies_used: | 
       Python, Tensorflow, Keras, Matlab
 
 publications:
-  - title: Random title of paper. An interesting one.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference, 2016
+  - title: Strategies to Fight against the downward Sales during COVID-19 - Study on Pharmaceutical Companies in Bangladesh
+    link: "https://ebaub.ac.bd/journal/ej/files/vol3/jc3_12.html"
+    authors: Md. Abdullah- Al- Masum, Professor Dr. A B M Rashedul Hassan, Ahmed Sharif Khan
+    conference: Conference, 2016
 
-  - title: Second title of paper. An interesting one too.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference again, 2018
+  - title: Impact of COVID-19 on Promotional Strategies of Pharmaceutical Companies in
+      Bangladesh
+    link: "https://www.researchgate.net/profile/Md-Masum-2/publication/360217830_ELK_ASIA_PACIFIC_JOURNAL_OF_MARKETING_AND_RETAIL_MANAGEMENT_Impact_of_COVID-19_on_Promotional_Strategies_of_Pharmaceutical_Companies_in_Bangladesh/links/6268fb1c8cb84a40ac8eac47/ELK-ASIA-PACIFIC-JOURNAL-OF-MARKETING-AND-RETAIL-MANAGEMENT-Impact-of-COVID-19-on-Promotional-Strategies-of-Pharmaceutical-Companies-in-Bangladesh.pdf"
+    authors: Md. Abdullah- Al- Masum, Ahmed Sharif Khan
+    conference: Conference, 2018
 
 projects:
   - title: Cool Project 
